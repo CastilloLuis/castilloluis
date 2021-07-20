@@ -12,11 +12,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently collaborating on an Incoming DeFi Protocol for programmable creditworthiness as Sr. Web3 FrontEnd Engineer
+- 🔭 I’m currently collaborating on an Incoming DeFi Protocol for programmable creditworthiness as **Sr. Web3 FrontEnd Engineer**
 
 <!-- - 🌱 I’m currently learning DeFi, Docker -->
 
-- 👯 I’m looking to collaborate on Anything related to Ethereum & Web3 
+- 👯 I’m looking to collaborate on Anything related to **Ethereum & Web3**
 
 - 💬 Talk to me about TypeScript, JavaScript, React, Svelte, Angular, GraphQL, Web3, Crypto tools 
 
