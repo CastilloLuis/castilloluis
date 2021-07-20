@@ -1,4 +1,4 @@
-<h1> Hey there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hey there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=CastilloLuis.CastilloLuis)
@@ -34,11 +34,10 @@
 
 <h2> 🤝 Connect with me </h2>
 <a href = 'https://www.twitter.com/iluiscastillo'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-
-
-<a href = 'https://t.me/prolcjs'> <img width = '32px' align= 'center' src="https://assets.stickpng.com/images/5842a8fba6515b1e0ad75b03.png"/></a> 
-
 <a href = 'https://www.github.com/CastilloLuis'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
 <br>
+
+You can also reach me on 
+<a href = 'https://t.me/prolcjs'> telegram </a> :sparkler: 
