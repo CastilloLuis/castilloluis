@@ -1,7 +1,7 @@
 <h1> Hey there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=CastilloLuis.CastilloLuis)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=CastilloLuis.CastilloLuis) -->
 
 </p>
 <div size='20px'> My name is Luis. Thank You for taking the time to view my GitHub Profile :smile: 
@@ -9,7 +9,7 @@
 
 <h2> 👨‍💻 About Me</h2>
 
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 - 🔭 I’m currently collaborating on an Incoming DeFi Protocol for programmable creditworthiness as **Sr. Web3 FrontEnd Engineer**
@@ -21,16 +21,19 @@
 - 💬 Talk to me about TypeScript, JavaScript, React, Svelte, Angular, GraphQL, Web3, Crypto tools 
 
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> Skills </h2>
-<a href= https://github.com/CastilloLuis?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/CastilloLuis?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/CastilloLuis?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
-<a href= https://github.com/CastilloLuis?tab=repositories&q=&type=&language=svelte&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/svelte.svg'> </a>
-<a href= https://github.com/CastilloLuis?tab=repositories&q=&type=&language=angularjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'> </a>
-<a href= https://github.com/CastilloLuis?tab=repositories&q=&type=&language=graphql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/graphql.svg'> </a>
-<a href= https://github.com/CastilloLuis?tab=repositories&q=&type=&language=webpack&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/webpack.svg'> </a>
-<a href= https://github.com/CastilloLuis?tab=repositories&q=&type=&language=jest&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'> </a>
-<a href= https://github.com/CastilloLuis?tab=repositories&q=&type=&language=jasmine&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jasmine.svg'> </a>
-
+<a href= https://github.com/CastilloLuis > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/CastilloLuis > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/CastilloLuis > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
+<a href= https://github.com/CastilloLuis > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/svelte.svg'> </a>
+<a href= https://github.com/CastilloLuis > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'> </a>
+<a href= https://github.com/CastilloLuis > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/graphql.svg'> </a>
+<a href= https://github.com/CastilloLuis > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/webpack.svg'> </a>
+<a href= https://github.com/CastilloLuis > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'> </a>
+<a href= https://github.com/CastilloLuis > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jasmine.svg'> </a>
+<a href= https://web3js.readthedocs.io > <img width ='38px' src ='https://miro.medium.com/max/1400/1*2GHi9FwnyA5UTJpcxPSG7A.jpeg' /> </a>
+<a href= https://docs.ethers.io/ > <img width ='34px' src ='https://esp.ethereum.foundation/static/f8b753af4c23eb1e1c0896b62a37de8a/69585/ethers-js.png' /> </a>
+<a href= https://hardhat.org > <img width ='32px' src ='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj4GcOrXLeO9nnIV7OMu0BB17J46L3Okm1-w&usqp=CAU' /> </a>
+<a href= https://trufflesuite.com/ > <img width ='32px' src ='https://www.trufflesuite.com/img/truffle-logo-light.svg' /> </a>
 
 <h2> 🤝 Connect with me </h2>
 <a href = 'https://www.twitter.com/iluiscastillo'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
