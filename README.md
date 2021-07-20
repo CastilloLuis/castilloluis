@@ -42,5 +42,5 @@
 
 <br>
 
-You can also reach me on 
-<a href = 'https://t.me/prolcjs'> telegram </a> :sparkler: 
+You can reach me on
+<a href = 'https://t.me/prolcjs'> telegram </a> too :sparkler: 
