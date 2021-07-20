@@ -36,7 +36,7 @@
 <a href = 'https://www.twitter.com/iluiscastillo'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 
 
-<a href = 'https://t.me/prolcjs'> <img width = '32px' align= 'center' src="https://i.pinimg.com/474x/82/83/2e/82832e772da5255088b20207e6a2ab0f.jpg"/></a> 
+<a href = 'https://t.me/prolcjs'> <img width = '32px' align= 'center' src="https://assets.stickpng.com/images/5842a8fba6515b1e0ad75b03.png"/></a> 
 
 <a href = 'https://www.github.com/CastilloLuis'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
