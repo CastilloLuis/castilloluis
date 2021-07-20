@@ -12,7 +12,7 @@
 <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently collaborating on a DeFi Protocol for programmable creditworthiness as **Sr. Web3 FrontEnd Engineer**
+- 🔭 I’m currently collaborating on a DeFi Protocol for programmable creditworthiness as a **Sr. Web3 FrontEnd Engineer**
 
 <!-- - 🌱 I’m currently learning DeFi, Docker -->
 
