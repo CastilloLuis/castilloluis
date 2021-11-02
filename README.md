@@ -43,4 +43,4 @@
 <br>
 
 You can reach me on
-<a href = 'https://t.me/prolcjs'> telegram </a> too :sparkler: 
+<a href = 'https://t.me/prolcjs'> telegram </a> & discord as <b>iluiscastillo#3530</b> :sparkler: 
