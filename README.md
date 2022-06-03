@@ -31,7 +31,7 @@
 <a href= https://github.com/CastilloLuis > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'> </a>
 <a href= https://github.com/CastilloLuis > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jasmine.svg'> </a>
 <a href= https://web3js.readthedocs.io > <img width ='38px' src ='https://miro.medium.com/max/1400/1*2GHi9FwnyA5UTJpcxPSG7A.jpeg' /> </a>
-<a href= https://docs.ethers.io/ > <img width ='34px' src ='https://esp.ethereum.foundation/static/f8b753af4c23eb1e1c0896b62a37de8a/69585/ethers-js.png' /> </a>
+<a href= https://docs.ethers.io/ > <img width ='34px' src ='https://docs.ethers.io/v5/static/logo.svg' /> </a>
 <a href= https://hardhat.org > <img width ='32px' src ='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj4GcOrXLeO9nnIV7OMu0BB17J46L3Okm1-w&usqp=CAU' /> </a>
 <a href= https://trufflesuite.com/ > <img width ='32px' src ='https://www.trufflesuite.com/img/truffle-logo-light.svg' /> </a>
 
