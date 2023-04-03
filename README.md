@@ -4,7 +4,7 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=CastilloLuis.CastilloLuis) -->
 
 </p>
-<div size='20px'>Hi, I'm Luis, and I'm grateful that you've taken the time to check out my GitHub profile! :smile: 
+<div size='20px'>Hi, I'm Luis and I'm grateful that you've taken the time to check out my GitHub profile! :smile: 
 </div>
 
 <h2> 👨‍💻 About Me</h2>
