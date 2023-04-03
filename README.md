@@ -4,7 +4,7 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=CastilloLuis.CastilloLuis) -->
 
 </p>
-<div size='20px'> My name is Luis. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'>Hi, I'm Luis, and I'm grateful that you've taken the time to check out my GitHub profile! :smile: 
 </div>
 
 <h2> 👨‍💻 About Me</h2>
@@ -12,13 +12,13 @@
 <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently collaborating on a DeFi Protocol for programmable creditworthiness as a **Sr. Web3 FrontEnd Engineer**
+- 🔭 Currently, I'm working as a **Sr. Web3 FrontEnd Engineer**, collaborating on a DeFi Protocol for programmable creditworthiness.
 
 <!-- - 🌱 I’m currently learning DeFi, Docker -->
 
-- 👯 I’m looking to collaborate on Anything related to **Ethereum & Web3**
+- 👯 I'm always eager to collaborate on anything related to Front-End, iOs, Ethereum & Web3.
 
-- 💬 Talk to me about TypeScript, JavaScript, React, Svelte, Angular, TheGraph, GraphQL, Web3, Crypto tools 
+- 💬 Let's chat about TypeScript, JavaScript, React, Svelte, Angular, TheGraph, GraphQL, Web3, and Crypto tools.
 
 <h2> 👨‍💻 Skills </h2>
 <a href= https://github.com/CastilloLuis > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
