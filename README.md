@@ -34,6 +34,6 @@
 <ul>
   <li>Discord: iluiscastillo</li>
   <li><a href="https://t.me/prolcjs" target="_blank">Telegram</a></li>
-  <li><a href="https://www.linkedin.com/in/luis-eduardo-castillo-55a02b170/" target="_blank">LinkedIn</a></li></li>
+  <li><a href="https://www.linkedin.com/in/luis-eduardo-castillo-55a02b170/" target="_blank">LinkedIn</a></li>
 </ul>
 
