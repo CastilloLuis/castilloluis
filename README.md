@@ -9,16 +9,11 @@
 
 <h2> 👨‍💻 About Me</h2>
 
-<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-
-- 🔭 Currently, I'm working as a **Sr. Web3 FrontEnd Engineer**, collaborating on a DeFi Protocol for programmable creditworthiness.
+- 🔭 Currently, I'm working as a **Senior Web3 Engineer**, collaborating on a DeFi Protocol for programmable creditworthiness (<a href="https://www.spectral.finance/" target="_blank">Spectral.Finance</a>).
 
 <!-- - 🌱 I’m currently learning DeFi, Docker -->
 
-- 👯 I'm always eager to collaborate on anything related to Front-End, iOs, Ethereum & Web3.
-
-- 💬 Let's chat about TypeScript, JavaScript, React, Svelte, Angular, TheGraph, GraphQL, Web3, and Crypto tools.
+- 👯 I'm always eager to collaborate on anything related to software engineering
 
 <h2> 👨‍💻 Skills </h2>
 <a href= https://github.com/CastilloLuis > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
@@ -36,11 +31,9 @@
 <a href= https://trufflesuite.com/ > <img width ='32px' src ='https://www.trufflesuite.com/img/truffle-logo-light.svg' /> </a>
 
 <h2> 🤝 Connect with me </h2>
-<a href = 'https://www.twitter.com/iluiscastillo'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/CastilloLuis'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<ul>
+  <li>Discord: iluiscastillo</li>
+  <li><a href="https://t.me/prolcjs" target="_blank">Telegram</a></li>
+  <li><a href="https://www.linkedin.com/in/luis-eduardo-castillo-55a02b170/" target="_blank">LinkedIn</a></li></li>
+</ul>
 
-
-<br>
-
-You can reach me on
-<a href = 'https://t.me/prolcjs'> telegram </a> & discord as <b>iluiscastillo#3530</b> :sparkler: 
