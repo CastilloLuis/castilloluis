@@ -9,11 +9,11 @@
 
 <h2> 👨‍💻 About Me</h2>
 
-- 🔭 Currently, I'm working as a **Senior Web3 Engineer**, collaborating on a DeFi Protocol for programmable creditworthiness (<a href="https://www.spectral.finance/" target="_blank">Spectral.Finance</a>).
+- 🔭 I greatly enjoy tackling complex challenges and finding solutions using the latest technologies.
 
-<!-- - 🌱 I’m currently learning DeFi, Docker -->
+- 🚀 I am committed to delivering high-quality, scalable code, utilizing software engineering best practices and design patterns.
 
-- 👯 I'm always eager to collaborate on anything related to software engineering
+- 👥 I am always eager to collaborate on anything related to software engineering.
 
 <h2> 👨‍💻 Skills </h2>
 <a href= https://github.com/CastilloLuis > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
