@@ -9,8 +9,7 @@
 > 🔗 Senior Web3 Frontend Engineer building seamless blockchain experiences
 
 - 🌐 Specializing in Next.js-powered dApp frontends that connect users to blockchain infrastructure
-- ⚡ Expert in L1/L2 solutions (Ethereum, Polygon, Arbitrum, Optimism, zkSync) for optimal user experiences
-- 🤖 Pioneering AI agents for on-chain interactions and blockchain data visualization
+- 🤖 AI agents for on-chain interactions and blockchain data visualization
 - 📱 Building cross-platform mobile dApps with React Native, Flutter, and native Swift
 - 🧠 Developing composable, gas-efficient frontend components that integrate with complex smart contracts
 - 🛠️ Crafting intuitive UIs for DeFi protocols, NFT marketplaces, and cross-chain bridges
