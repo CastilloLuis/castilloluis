@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Next.js+Web3+Engineer;L1%2FL2+Solutions+Architect;dApp+UX+Specialist;AI+Agent+Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Web3+Engineer;Frontend+Architect;Tech+Lead;dApp+UX+Specialist&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 # Hey there, I'm Luis! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -79,7 +79,3 @@
   </a>
 </p>
 
----
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Next.js+Web3+Development+Specialist;Connecting+users+across+all+platforms&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-</div>
