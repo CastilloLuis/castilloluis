@@ -66,44 +66,13 @@
   <img src="https://img.shields.io/badge/Mobile_Wallet_SDKs-232F3E?style=for-the-badge" alt="Mobile Wallet SDKs" />
 </p>
 
-## 🤖 AI & Blockchain Integration
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Autonomous_Agents-4285F4?style=for-the-badge&logoColor=white" alt="Autonomous Agents" />
-  <img src="https://img.shields.io/badge/LangChain-127844?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/On_Chain_AI-2B2BD6?style=for-the-badge&logoColor=white" alt="On-Chain AI" />
-  <img src="https://img.shields.io/badge/Smart_Agents-E42A3A?style=for-the-badge&logoColor=white" alt="Smart Agents" />
-  <img src="https://img.shields.io/badge/Vector_DBs-FF9E0D?style=for-the-badge&logoColor=white" alt="Vector DBs" />
-  <img src="https://img.shields.io/badge/ML_for_Blockchain-9558B2?style=for-the-badge&logoColor=white" alt="ML for Blockchain" />
-</p>
-
 ## 🔧 Backend (Supporting Skills)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-  <img src="https://img.shields.io/badge/Ceramic-F93?style=for-the-badge&logo=ceramic&logoColor=white" alt="Ceramic" />
 </p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/CastilloLuis">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CastilloLuis&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CastilloLuis&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-</p>
-
-## 🚀 Featured Projects
-
-- **Cross-Chain Portfolio** - Next.js dashboard for multi-chain asset management using wagmi/viem
-- **Mobile Web3 Wallet** - React Native wallet with biometric authentication for L1/L2 networks
-- **NFT Marketplace UI** - Next.js-powered marketplace with lazy minting and gasless transactions
-- **L2 Bridge Interface** - User-friendly bridge connecting multiple L2 networks with transaction status tracking
-- **Web3 Social Platform** - Decentralized social platform with on-chain identity and AI content moderation
-- **Autonomous Trading Agent** - AI-powered DeFi agent using Python backends for portfolio optimization
 
 ## 🌐 Connect With Me
 
@@ -120,11 +89,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github.com/CastilloLuis/CastilloLuis/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Next.js+Web3+Development+Specialist;Connecting+users+across+all+platforms&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
