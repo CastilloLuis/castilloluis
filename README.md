@@ -1,39 +1,109 @@
-<h1> Hey there! </h1>
-<p align='center'>
-
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=CastilloLuis.CastilloLuis) -->
-
-</p>
-<div size='20px'>Hi, I'm Luis and I'm grateful that you've taken the time to check out my GitHub profile! :smile: 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Web3+Universe;Senior+Blockchain+Engineer;Smart+Contract+Developer;DeFi+%26+NFT+Specialist&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
-<h2> 👨‍💻 About Me</h2>
+# Hey there, I'm Luis! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-- 🔭 I greatly enjoy tackling complex challenges and finding solutions using the latest technologies.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CastilloLuis&label=Profile%20views&color=0e75b6&style=flat" alt="profile views">
+  <a href="https://github.com/CastilloLuis?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/CastilloLuis?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+</p>
 
-- 🚀 I am committed to delivering high-quality, scalable code, utilizing software engineering best practices and design patterns.
+<p align="center">
+  <a href="https://github.com/CastilloLuis">
+    <img src="https://github-stats-alpha.vercel.app/api?username=CastilloLuis&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
+  </a>
+</p>
 
-- 👥 I am always eager to collaborate on anything related to software engineering.
+## 💫 About Me
 
-<h2> 👨‍💻 Skills </h2>
-<a href= https://github.com/CastilloLuis > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/CastilloLuis > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/CastilloLuis > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
-<a href= https://github.com/CastilloLuis > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/svelte.svg'> </a>
-<a href= https://github.com/CastilloLuis > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'> </a>
-<a href= https://github.com/CastilloLuis > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/graphql.svg'> </a>
-<a href= https://github.com/CastilloLuis > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/webpack.svg'> </a>
-<a href= https://github.com/CastilloLuis > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'> </a>
-<a href= https://github.com/CastilloLuis > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jasmine.svg'> </a>
-<a href= https://web3js.readthedocs.io > <img width ='38px' src ='https://miro.medium.com/max/1400/1*2GHi9FwnyA5UTJpcxPSG7A.jpeg' /> </a>
-<a href= https://docs.ethers.io/ > <img width ='34px' src ='https://docs.moonbeam.network/images/index-pages/builders/build/eth-api/libraries/ethersjs.png' /> </a>
-<a href= https://hardhat.org > <img width ='32px' src ='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj4GcOrXLeO9nnIV7OMu0BB17J46L3Okm1-w&usqp=CAU' /> </a>
-<a href= https://trufflesuite.com/ > <img width ='32px' src ='https://www.trufflesuite.com/img/truffle-logo-light.svg' /> </a>
+> 🔗 Senior Web3 Engineer passionate about building the decentralized future
 
-<h2> 🤝 Connect with me </h2>
-<ul>
-  <li>Discord: iluiscastillo</li>
-  <li><a href="https://t.me/prolcjs" target="_blank">Telegram</a></li>
-  <li><a href="https://www.linkedin.com/in/luis-eduardo-castillo-55a02b170/" target="_blank">LinkedIn</a></li>
-</ul>
+- 🌐 Building dApps, smart contracts, and decentralized protocols that shape the future of Web3
+- 🚀 Strong focus on security, gas optimization, and sustainable blockchain solutions
+- 💎 Experience with DeFi protocols, NFT platforms, and cross-chain applications
+- 🛠️ Committed to delivering high-quality, auditable code leveraging blockchain best practices
+- 🔍 Constantly exploring new L1/L2 solutions and emerging blockchain standards
+- 👥 Open to collaborating on innovative blockchain projects and protocol development
 
+## 🛠️ My Web3 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
+  <img src="https://img.shields.io/badge/Ethers.js-1D4A7C?style=for-the-badge&logo=ethers&logoColor=white" alt="Ethers.js" />
+  <img src="https://img.shields.io/badge/Hardhat-FFE100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat" />
+  <img src="https://img.shields.io/badge/Truffle-3C3C3D?style=for-the-badge&logo=truffle&logoColor=white" alt="Truffle" />
+  <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=OpenZeppelin&logoColor=white" alt="OpenZeppelin" />
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=IPFS&logoColor=white" alt="IPFS" />
+</p>
+
+## 🖥️ Frontend & Development Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Webpack" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white" alt="Jasmine" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/CastilloLuis">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CastilloLuis&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CastilloLuis&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+</p>
+
+## 🔥 Recent Projects
+
+<p align="center">
+  <a href="https://github.com/CastilloLuis/project1">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CastilloLuis&repo=project1&theme=radical" />
+  </a>
+  <a href="https://github.com/CastilloLuis/project2">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CastilloLuis&repo=project2&theme=radical" />
+  </a>
+</p>
+
+## 🏆 Web3 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Smart%20Contract%20Audits-25%2B-blueviolet" alt="Smart Contract Audits">
+  <img src="https://img.shields.io/badge/Gas%20Optimizations-40%2B-success" alt="Gas Optimizations">
+  <img src="https://img.shields.io/badge/DeFi%20Protocols-10%2B-blue" alt="DeFi Protocols">
+  <img src="https://img.shields.io/badge/NFT%20Collections-15%2B-orange" alt="NFT Collections">
+</p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://discord.com/users/iluiscastillo" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: iluiscastillo">
+  </a>
+  <a href="https://t.me/prolcjs" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: prolcjs">
+  </a>
+  <a href="https://www.linkedin.com/in/luis-eduardo-castillo-55a02b170/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Luis Eduardo Castillo">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/CastilloLuis/CastilloLuis/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Let's+build+the+decentralized+future+together!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</div>
