@@ -22,9 +22,9 @@
   <img src="https://img.shields.io/badge/viem-3775E0?style=for-the-badge&logo=viem&logoColor=white" alt="viem" />
   <img src="https://img.shields.io/badge/ethers.js-1D4A7C?style=for-the-badge&logo=ethers&logoColor=white" alt="Ethers.js" />
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
+  <img src="https://img.shields.io/badge/The_Graph-0C0A1C?style=for-the-badge&logo=thegraph&logoColor=white" alt="The Graph" />
   <img src="https://img.shields.io/badge/RainbowKit-032463?style=for-the-badge&logo=rainbow&logoColor=white" alt="RainbowKit" />
   <img src="https://img.shields.io/badge/Gold_Sky-0C0A1C?style=for-the-badge&logo=goldsky&logoColor=orange" alt="Gold Sky" />
-  <img src="https://img.shields.io/badge/The_Graph-0C0A1C?style=for-the-badge&logo=thegraph&logoColor=white" alt="The Graph" />
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum" />
   <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" alt="Polygon" />
   <img src="https://img.shields.io/badge/Arbitrum-12AAFF?style=for-the-badge&logo=arbitrum&logoColor=white" alt="Arbitrum" />
