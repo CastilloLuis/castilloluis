@@ -4,19 +4,6 @@
 
 # Hey there, I'm Luis! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CastilloLuis&label=Profile%20views&color=0e75b6&style=flat" alt="profile views">
-  <a href="https://github.com/CastilloLuis?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/CastilloLuis?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/CastilloLuis">
-    <img src="https://github-stats-alpha.vercel.app/api?username=CastilloLuis&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
-  </a>
-</p>
-
 ## 💫 About Me
 
 > 🔗 Senior Web3 Engineer passionate about building the decentralized future
