@@ -64,26 +64,6 @@
   </a>
 </p>
 
-## 🔥 Recent Projects
-
-<p align="center">
-  <a href="https://github.com/CastilloLuis/project1">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CastilloLuis&repo=project1&theme=radical" />
-  </a>
-  <a href="https://github.com/CastilloLuis/project2">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CastilloLuis&repo=project2&theme=radical" />
-  </a>
-</p>
-
-## 🏆 Web3 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Smart%20Contract%20Audits-25%2B-blueviolet" alt="Smart Contract Audits">
-  <img src="https://img.shields.io/badge/Gas%20Optimizations-40%2B-success" alt="Gas Optimizations">
-  <img src="https://img.shields.io/badge/DeFi%20Protocols-10%2B-blue" alt="DeFi Protocols">
-  <img src="https://img.shields.io/badge/NFT%20Collections-15%2B-orange" alt="NFT Collections">
-</p>
-
 ## 🌐 Connect With Me
 
 <p align="center">
