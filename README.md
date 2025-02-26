@@ -1,45 +1,90 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Web3+Universe;Senior+Blockchain+Engineer;Smart+Contract+Developer;DeFi+%26+NFT+Specialist&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Next.js+Web3+Engineer;L1%2FL2+Solutions+Architect;dApp+UX+Specialist;AI+Agent+Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 # Hey there, I'm Luis! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 ## 💫 About Me
 
-> 🔗 Senior Web3 Engineer passionate about building the decentralized future
+> 🔗 Senior Web3 Frontend Engineer building seamless blockchain experiences
 
-- 🌐 Building dApps, smart contracts, and decentralized protocols that shape the future of Web3
-- 🚀 Strong focus on security, gas optimization, and sustainable blockchain solutions
-- 💎 Experience with DeFi protocols, NFT platforms, and cross-chain applications
-- 🛠️ Committed to delivering high-quality, auditable code leveraging blockchain best practices
-- 🔍 Constantly exploring new L1/L2 solutions and emerging blockchain standards
-- 👥 Open to collaborating on innovative blockchain projects and protocol development
+- 🌐 Specializing in Next.js-powered dApp frontends that connect users to blockchain infrastructure
+- ⚡ Expert in L1/L2 solutions (Ethereum, Polygon, Arbitrum, Optimism, zkSync) for optimal user experiences
+- 🤖 Pioneering AI agents for on-chain interactions and blockchain data visualization
+- 📱 Building cross-platform mobile dApps with React Native, Flutter, and native Swift
+- 🧠 Developing composable, gas-efficient frontend components that integrate with complex smart contracts
+- 🛠️ Crafting intuitive UIs for DeFi protocols, NFT marketplaces, and cross-chain bridges
+- 🔄 Building state management systems for real-time blockchain data synchronization
 
-## 🛠️ My Web3 Tech Stack
+## 🛠️ Web3 Frontend Expertise
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/wagmi-14151A?style=for-the-badge&logo=wagmi&logoColor=white" alt="wagmi" />
+  <img src="https://img.shields.io/badge/viem-3775E0?style=for-the-badge&logo=viem&logoColor=white" alt="viem" />
+  <img src="https://img.shields.io/badge/ethers.js-1D4A7C?style=for-the-badge&logo=ethers&logoColor=white" alt="Ethers.js" />
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
-  <img src="https://img.shields.io/badge/Ethers.js-1D4A7C?style=for-the-badge&logo=ethers&logoColor=white" alt="Ethers.js" />
-  <img src="https://img.shields.io/badge/Hardhat-FFE100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat" />
-  <img src="https://img.shields.io/badge/Truffle-3C3C3D?style=for-the-badge&logo=truffle&logoColor=white" alt="Truffle" />
-  <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=OpenZeppelin&logoColor=white" alt="OpenZeppelin" />
+  <img src="https://img.shields.io/badge/RainbowKit-032463?style=for-the-badge&logo=rainbow&logoColor=white" alt="RainbowKit" />
+  <img src="https://img.shields.io/badge/ConnectKit-F02121?style=for-the-badge&logo=connectkit&logoColor=white" alt="ConnectKit" />
+  <img src="https://img.shields.io/badge/The_Graph-0C0A1C?style=for-the-badge&logo=thegraph&logoColor=white" alt="The Graph" />
   <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=IPFS&logoColor=white" alt="IPFS" />
 </p>
 
-## 🖥️ Frontend & Development Tools
+## 🔄 L1/L2 Solutions
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" alt="Polygon" />
+  <img src="https://img.shields.io/badge/Arbitrum-12AAFF?style=for-the-badge&logo=arbitrum&logoColor=white" alt="Arbitrum" />
+  <img src="https://img.shields.io/badge/Optimism-FF0420?style=for-the-badge&logo=optimism&logoColor=white" alt="Optimism" />
+  <img src="https://img.shields.io/badge/zkSync-1E69FF?style=for-the-badge&logo=zksync&logoColor=white" alt="zkSync" />
+  <img src="https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=base&logoColor=white" alt="Base" />
+  <img src="https://img.shields.io/badge/Gnosis_Chain-3E6957?style=for-the-badge&logo=gnosis&logoColor=white" alt="Gnosis Chain" />
+  <img src="https://img.shields.io/badge/Starknet-1E202E?style=for-the-badge&logo=starknet&logoColor=white" alt="Starknet" />
+</p>
+
+## 🧩 Frontend Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Webpack" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-  <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white" alt="Jasmine" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/ShadcnUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="ShadcnUI" />
+  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI" />
+  <img src="https://img.shields.io/badge/framer_motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" />
+</p>
+
+## 📱 Mobile Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/WalletConnect-3B99FC?style=for-the-badge&logo=walletconnect&logoColor=white" alt="WalletConnect" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Mobile_Wallet_SDKs-232F3E?style=for-the-badge" alt="Mobile Wallet SDKs" />
+</p>
+
+## 🤖 AI & Blockchain Integration
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Autonomous_Agents-4285F4?style=for-the-badge&logoColor=white" alt="Autonomous Agents" />
+  <img src="https://img.shields.io/badge/LangChain-127844?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/On_Chain_AI-2B2BD6?style=for-the-badge&logoColor=white" alt="On-Chain AI" />
+  <img src="https://img.shields.io/badge/Smart_Agents-E42A3A?style=for-the-badge&logoColor=white" alt="Smart Agents" />
+  <img src="https://img.shields.io/badge/Vector_DBs-FF9E0D?style=for-the-badge&logoColor=white" alt="Vector DBs" />
+  <img src="https://img.shields.io/badge/ML_for_Blockchain-9558B2?style=for-the-badge&logoColor=white" alt="ML for Blockchain" />
+</p>
+
+## 🔧 Backend (Supporting Skills)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Ceramic-F93?style=for-the-badge&logo=ceramic&logoColor=white" alt="Ceramic" />
 </p>
 
 ## 📊 GitHub Stats
@@ -50,6 +95,15 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CastilloLuis&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </p>
+
+## 🚀 Featured Projects
+
+- **Cross-Chain Portfolio** - Next.js dashboard for multi-chain asset management using wagmi/viem
+- **Mobile Web3 Wallet** - React Native wallet with biometric authentication for L1/L2 networks
+- **NFT Marketplace UI** - Next.js-powered marketplace with lazy minting and gasless transactions
+- **L2 Bridge Interface** - User-friendly bridge connecting multiple L2 networks with transaction status tracking
+- **Web3 Social Platform** - Decentralized social platform with on-chain identity and AI content moderation
+- **Autonomous Trading Agent** - AI-powered DeFi agent using Python backends for portfolio optimization
 
 ## 🌐 Connect With Me
 
@@ -72,5 +126,5 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Let's+build+the+decentralized+future+together!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Next.js+Web3+Development+Specialist;Connecting+users+across+all+platforms&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
